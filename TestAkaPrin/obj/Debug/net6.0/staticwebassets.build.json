@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5mt3hn/Nrxjw1rZsadaIz39GuGTZWg7QV9RlU6KSpns=",
+  "Source": "TestAkaPrin",
+  "BasePath": "_content/TestAkaPrin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestAkaPrin\\wwwroot",
+      "Source": "TestAkaPrin",
+      "ContentRoot": "D:\\Development\\ASP .NET\\TestAkaPrin\\TestAkaPrin\\wwwroot\\",
+      "BasePath": "_content/TestAkaPrin",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
